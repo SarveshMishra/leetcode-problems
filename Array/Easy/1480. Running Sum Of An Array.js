@@ -1,5 +1,7 @@
-//https://leetcode.com/problems/running-sum-of-1d-array
-
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
 var runningSum = function (nums) {
 	var N = nums.length;
 	var res = [];
@@ -12,3 +14,4 @@ var runningSum = function (nums) {
 	}
 	return res;
 };
+// TC O(N^2), SC O(N)
