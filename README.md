@@ -13,4 +13,3 @@ If anyone want to contribute to this repo, PR is always welcome.
 2. Try to properly comment the code so that anyone can understand the flow of code.
 3. You can add code in any language just add new `M` Method number.
 4. If any queries reach out to me.
-testing
