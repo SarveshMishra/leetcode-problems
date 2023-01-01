@@ -22,3 +22,10 @@ public:
     }
 };
 
+int main()
+{
+    Solution solution;
+    vector<string> operations{"--X", "X++", "X++"};
+    cout << solution.finalValueAfterOperations(operations) << endl; // Call the method
+    return 0;
+}
